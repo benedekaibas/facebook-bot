@@ -5,7 +5,7 @@ from fbchat import Client
 from fbchat.models import Message
 from fbchat.models import *
 
-
+#this is just an example of an email and password
 #sigzer187@gmail.com
 #sodigeci9
 
