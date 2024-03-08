@@ -1,6 +1,5 @@
 #C:\Users\kaiba\OneDrive\Asztali gép\learning-python\fb_bot.py
 
-
 #TODO: make the import workable, because it has missing elements problems
 #import is working, but after running the code is still says modulenotfound error. solve this!
 from fbchat import Client
@@ -22,9 +21,6 @@ def main():
     else:
         print("Error")
     
-
-
-
 
 if __name__ == "__main__":
     main()
