@@ -1,3 +1,5 @@
+"""This is the main file of the project."""
+
 #C:\Users\kaiba\OneDrive\Asztali gép\learning-python\fb_bot.py
 
 #TODO: make the import workable, because it has missing elements problems
